@@ -12,7 +12,7 @@ async function test() {
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <button @click="test()">Send Api</button>
+    <button @click="test">Send Api</button>
   </div>
 </template>
 
